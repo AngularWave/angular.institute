@@ -7,5 +7,5 @@ A list of Angular Institute articles that are available on Medium now. You do no
 1. [How to cook RxJS in an Angular app: tips & tricks](https://medium.com/angularwave/how-to-cook-rxjs-in-an-angular-app-tips-tricks-afd9fbdc4d31?sk=c9f8b1ee71177aa2cf359f4228489b5f)
 1. The magic of ContentChild, ViewChild and Template References (coming soon...)
 1. Dynamic content: ngComponentOutlet, ngTemplateOutlet, polymorphic templates (coming soon...)
-1. [How to make your code more abstract and support Angular Universal / Ionic without efforts](https://medium.com/angularwave/how-to-cook-rxjs-in-an-angular-app-tips-tricks-afd9fbdc4d31?sk=c9f8b1ee71177aa2cf359f4228489b5f)
+1. [How to make your code more abstract and support Angular Universal / Ionic without efforts](https://medium.com/angularwave/how-to-make-your-code-more-abstract-and-support-angular-universal-ionic-without-efforts-7b16273658db?sk=752ffb35983f38e82be8e45759371ed4)
 1. Taking down the Emperor: Declarative approach (coming soon...)
